@@ -1,0 +1,3 @@
+struct HashNode<K, V> {
+
+}
